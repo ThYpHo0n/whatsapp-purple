@@ -1,13 +1,9 @@
 whatsapp-purple
 ===============
 
-<<<<<<< HEAD
 WhatsApp*-compatible protocol implementation for libpurple (Pidgin)
 =======
 [![Build Status](https://travis-ci.org/davidgfnet/whatsapp-purple.png?branch=master)](https://travis-ci.org/davidgfnet/whatsapp-purple)
-
-WhatsApp protocol implementation for libpurple (Pidgin)
->>>>>>> 485b5eeb843a50d5e879f9ab6f54523f2a716093
 
 Get a copy
 ----------
@@ -78,5 +74,5 @@ debug`.
 
 WhatsApp is a registered trademark of WhatsApp Inc registered in the U.S. and
 other countries. This project is an independent work and has not been authorized,
-sponsored, or otherwise approved by Whatsapp Inc. 
+sponsored, or otherwise approved by Whatsapp Inc.
 
